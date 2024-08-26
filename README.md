@@ -27,7 +27,7 @@ This project is an AI-powered platform designed to help doctors query patient da
 
 2. Install required dependencies:
    pip install -r requirements.txt
-3. Set up your MongoDB database and insert medical data.
+3. Set up your MongoDB database and insert medical data (Set your MongoDB Key)
 4. Set up your OpenAI API key: export OPENAI_API_KEY='your_openai_api_key'
 
 **Example Interaction:**
